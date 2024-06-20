@@ -1,0 +1,740 @@
+{
+    "SPORTS Radio": {
+        "streams": [
+		{
+		"name": "HAMED",
+        "display_name":"Radio Hamid1.Ashawky ", "url":"http://hamidfm1.ddns.net:8081/HamidFM1"
+		},{ 
+		"name": "HAMED",
+        "display_name":"Radio Hamid2.Ashawky ", "url":"http://hamidfm2.ddns.net:8081/HamidFM2"
+		},{ 
+		"name": "HAMED",
+        "display_name":"Radio Hamid3.Ashawky ", "url":"http://hamidfm3.ddns.net:8081/HamidFM3"
+		},{
+		"name": "HamidSSC1",
+		"display_name":"Hamid SSC1 HD.AShawky ", "url":"http://hamidfm2024.ddns.net:1988/SSC1HD-HAMIDFM2024/mpegts"
+		},{
+		"name": "HamidSSC1Extra",
+		"display_name":"Hamid SSC1 Extra.Ashawky", "url":"http://hamidfm2024.ddns.net:1988/SSC1ExtraHD-HAMIDFM2024/mpegts"
+		},{
+		"name": "HamidbeINMax1",
+		"display_name":"Hamid beIN Max 1.Ashawky ", "url":"http://hamidfm2024.ddns.net:1988/beINMax1HamidFm2024/mpegts"
+		},{
+		"name": "HamidbeINMax1",
+		"display_name":"Hamid beIN Max 2.Ashawky ", "url":"http://hamidfm2024.ddns.net:1988/beINMax2HamidFm2024/mpegts"
+		},{
+        "name": "Sportify",
+		"display_name":"AShawky.Sportify.Live1 ", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-1/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Sportify.Live2 ", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-2/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Sportify.Live3", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-3/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Sportify.bein4", "url":"http://51pro.senatordubai.live/Oman_p1/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Sportify.bein5", "url":"http://51pro.senatordubai.live/Oman_p3/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Sportify.Live6", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-6/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Sportify.Live7", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-7/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Sportify.Live8", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-8/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Sportify.Live9", "url":"http://sportify-live.ddns.net:6911/Sportify-Live-9/mpegts"
+		},{
+		"name": "ssc_1",
+		"display_name":"AShawky.LiveSSC-1", "url":"http://51pro.senatordubai.live/SSC1/mpegts"
+		},{
+		"name": "ssc_2",
+		"display_name":"AShawky.LiveSSC2", "url":"http://51pro.senatordubai.live/SSC2/mpegts"
+		},{
+		"name": "ssc_3",
+		"display_name":"AShawky.LiveSSC3", "url":"http://51pro.senatordubai.live/SSC3/mpegts"
+		},{
+		"name": "ssc_4",
+		"display_name":"AShawky.LiveSSC4", "url":"http://51pro.senatordubai.live/SSC4/mpegts"
+		},{
+		"name": "ssc_5",
+		"display_name":"AShawky.LiveSSC5 ", "url":"http://51pro.senatordubai.live/SSC5/mpegts"
+		},{
+		"name": "ssc_extra1",
+		"display_name":"AShawky.LiveSSC-extra1 ", "url":"http://51pro.senatordubai.live/ssc-extra1/mpegts"
+		},{
+		"name": "ssc_extra2",
+		"display_name":"AShawky.LiveSSC-extra2", "url":"http://51pro.senatordubai.live/ssc-extra2/mpegts"
+		},{
+		"name": "ssc_extra3",
+		"display_name":"AShawky.LiveSSC-extra3", "url":"http://51pro.senatordubai.live/ssc-extra3/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.italy1", "url":"https://audio.sportify-audio.xyz:443/Sportify-Italy-1/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.italy 2", "url":"https://audio.sportify-audio.xyz:443/Sportify-Italy-2/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.SSC 1", "url":"https://audio.sportify-audio.xyz:443/Sportify-SSC-1/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.SSC EXTRA 1", "url":"https://audio.sportify-audio.xyz:443/Sportify-SSC-Extra1/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky. Live 1", "url":"https://audio.sportify-audio.xyz:443/Sportify-Live-1/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Live 2", "url":"https://audio.sportify-audio.xyz:443/Sportify-Live-2/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Live 3", "url":"https://audio.sportify-audio.xyz:443/Sportify-Live-3/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Live 4", "url":"https://audio.sportify-audio.xyz:443/Sportify-Live-4/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Live 5", "url":"https://audio.sportify-audio.xyz:443/Sportify-Live-5/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Live 6", "url":"https://audio.sportify-audio.xyz:443/Sportify-Live-6/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Live 7", "url":"https://audio.sportify-audio.xyz:443/Sportify-Live-7/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Live 8", "url":"https://audio.sportify-audio.xyz:443/Sportify-Live-8/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AShawky.Live 9", "url":"https://audio.sportify-audio.xyz:443/Sportify-Live-9/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":" XTRA 1.AShawky", "url":"https://audio.sportify-audio.xyz:443/Sportify-XTRA-1/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name":"AFC.AShawky", "url":"https://audio.sportify-audio.xyz:443/Sportify-AFC/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name": " italy 1 HD",
+		"url": "http://sportify-live.ddns.net:6911/Sportify-Italy-1/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name": " italy 2 HD",
+		"url": "http://sportify-live.ddns.net:6911/Sportify-Italy-2/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name": " SSC 1 HD",
+		"url": "http://sportify-live.ddns.net:6911/Sportify-SSC-1/mpegts"
+		},{
+		"name": "Sportify",
+		"display_name": " SSC EXTRA 1",
+		"url": "http://sportify-live.ddns.net:6911/Sportify-SSC-Extra1/mpegts"
+		},{
+		"name": "AudioIraq 1",
+		"display_name":"AShawky AudioIraq", "url":"http://2h.ae/ALI-LLstlait-AudioIraq-been-1"
+		},{
+		"name": "AudioIraq 2",
+		"display_name":"AShawky AudioIraq", "url":"http://2h.ae/ALI-LLstlait-AudioIraq-been-2"
+		},{
+		"name": "AudioIraq 3",
+		"display_name":"AShawky AudioIraq", "url":"http://2h.ae/ALI-LLstlait-AudioIraq-been-3"
+		},{
+		"name": "Orange Serie A",
+		"display_name":"Orange Serie A","url":""
+		},{
+		"name": "Orange AD Prem 1",
+		"display_name":"Orange AD Prem 1","url":""
+		},{
+		"name": "Orange AD Prem 2",
+		"display_name":"Orange AD Prem 2","url":""
+		},{
+		"name": "Orange Serie A",
+		"display_name":"Orange LIVE","url":""
+		},{
+		"name": "Orange Audio 1",
+		"display_name":"Orange Audio 1","url":""
+		},{
+		"name": "Orange Audio 2",
+		"display_name":"Orange Audio 2","url":""
+		},{
+		"name": "Orange Audio 3",
+		"display_name":"Orange Audio 3","url":""
+		},{
+		"name": "Orange Audio 4",
+		"display_name":"Orange audio 4","url":""
+		},{
+		"name": "Orange Audio 5",
+		"display_name":"Orange audio 5","url":""
+		},{
+		"name": "Orange Audio 6",
+		"display_name":"Orange audio 6","url":""
+		},{
+		"name": "Orange Audio 7",
+		"display_name":"Orange audio 7","url":""
+		},{
+		"name": "Orange Audio 8",
+		"display_name":"Orange audio 8","url":""
+		},{
+		"name": "Orange Audio 9",
+		"display_name":"Orange audio 9","url":""
+		},{
+		"name": "Orange Xtra 1",
+		"display_name":"Orange Xtra 1","url":""
+		},{
+		"name": "Orange Xtra 2",
+		"display_name":"Orange Xtra 2","url":""
+		},{
+		"name": "Orange Xtra 3",
+		"display_name":"Orange Xtra 3","url":""
+		},{
+		"name": "Orange Afc",
+		"display_name":"Orange Afc","url":""
+		},{
+		"name": "Orange SSC",
+		"display_name":"Orange SSC","url":""
+		},{
+		"name": "Delay Serie A",
+		"display_name":"Delay Serie A","url":""
+		},{
+		"name": "Delay AD Prem 1",
+		"display_name":"Delay AD Prem 1","url":""
+		},{
+		"name": "Delay AD Prem 2",
+		"display_name":"Delay AD Prem 2","url":""
+		},{
+		"name": "Delay LIVE",
+		"display_name":"Delay LIVE","url":""
+		},{
+		"name": "Delay Audio 1",
+		"display_name":"Delay Audio 1","url":""
+		},{
+		"name": "Delay Audio 2",
+		"display_name":"Delay Audio 2","url":""
+		},{
+		"name": "Delay Audio 3",
+		"display_name":"Delay Audio 3","url":""
+		},{
+		"name": "Delay Audio 4",
+		"display_name":"Delay Audio 4","url":""
+		},{
+		"name": "Delay Audio 5",
+		"display_name":"Delay Audio 5","url":""
+		},{
+		"name": "Delay Audio 6",
+		"display_name":"Delay Audio 6","url":""
+		},{
+		"name": "Delay Audio 7",
+		"display_name":"Delay Audio 7","url":""
+		},{
+		"name": "Delay Audio 8",
+		"display_name":"Delay Audio 8","url":""
+		},{
+		"name": "Delay Audio 9",
+		"display_name":"Delay Audio 9","url":""
+		},{
+		"name": "Delay Xtra 1",
+		"display_name":"Delay Xtra 1","url":""
+		},{
+		"name": "Delay Xtra 2",
+		"display_name":"Delay Xtra 2","url":""
+		},{
+		"name": "Delay Xtra 3",
+		"display_name":"Delay Xtra 3","url":""
+		},{
+		"name": "Delay Afc",
+		"display_name":"Delay Afc","url":""
+		},{
+		"name": "Delay SSC",
+		"display_name":"Delay SSC","url":""
+		},{
+		"name": "Nova wink audio 1",
+		"display_name": "WINK-4K CUS SP 1","url": "http://audio.wink-4k.com:8880/WINK-4K-CUS-SP1/mpegts"
+	    },{
+		"name": "Nova wink audio 2",
+		"display_name": "WINK-4K CUS SP 2","url": "http://audio.wink-4k.com:8880/WINK-4K-CUS-SP2/mpegts"
+	    },{
+		"name": "Nova wink audio 3",
+		"display_name": "WINK-4K CUS SP 3","url": "http://audio.wink-4k.com:8880/WINK-4K-CUS-SP3/mpegts"
+	    },{
+		"name": "Nova wink audio 4",
+		"display_name": "WINK-4K CUS SP 4","url": "http://audio.wink-4k.com:8880/WINK-4K-CUS-SP4/mpegts"
+	    },{
+		"name": "Nova wink audio 5",
+		"display_name": "WINK-4K CUS SP 5","url": "http://audio.wink-4k.com:8880/WINK-4K-CUS-SP5/mpegts"
+	    },{
+		"name": "Nova wink audio 6",
+		"display_name": "WINK-4K CUS SP 6","url": "http://audio.wink-4k.com:8880/WINK-4K-CUS-SP6/mpegts"
+	    },{
+		"name": "Nova wink audio 7",
+		"display_name": "WINK-4K CUS SP 7","url": "http://audio.wink-4k.com:8880/WINK-4K-CUS-SP7/mpegts"
+	    },{
+		"name": "Nova wink audio 8",
+		"display_name": "WINK-4K CUS SP 8","url": "http://audio.wink-4k.com:8880/WINK-4K-CUS-SP8/mpegts"
+	    },{
+		"name": "Nova wink audio 9",
+		"display_name": "WINK-4K CUS SP 9","url": "http://audio.wink-4k.com:8880/WINK-4K-CUS-SP9/mpegts"
+	    },{
+		"name": "On Sport FM",
+		"display_name":"On Sport FM","url": "http://carina.streamerr.co:8108/stream"
+        }
+        ]
+    },
+    "ISLAMIC": {
+        "streams": [
+        {
+		"name": "islamic",
+		"display_name": "إذاعات القرءان الكريم والتفسير","url": ""	
+		},{
+		"name": "Quran",
+		"display_name":"Egypt quran Karem.Ashawky", "url":"http://n04.radiojar.com/8s5u5tpdtwzuv"
+		},{
+		"name": "اذاعة القرأن الكريم القاهرة",
+		"display_name": "اذاعة القرأن الكريم القاهرة","url": "https://stream.radiojar.com/8s5u5tpdtwzuv"
+		},{
+		"name": "AL Quran AL Kareem-Cairo live",
+		"display_name": "اذاعة القران الكريم من القاهرة بث مباشر","url": "https://stream.zeno.fm/67nmp05iormvv"	
+		},{
+		"name": "quran kareem",
+		"display_name": "قران كريم","url": "https://streamer.mada.ps:8204/quranfm"
+		},{
+		"name": "Quran Radio",
+		"display_name": "Quran Radio","url": "https://stream.zeno.fm/9ea9phslm4muv"	
+		},{
+		"name": "AL Quran AL Kareem-Palestine",
+		"display_name": "AL Quran AL Kareem-Palestine","url": "https://stream.zeno.fm/f5ve851shm8uv"	
+		},{
+		"name": "AL Quran AL Kareem-Palestine-LIVE",
+		"display_name": "AL Quran AL Kareem-Palestine-LIVE","url": "https://sawtelghad.org:7001/;"	
+		},{
+		"name": "QURAN Radio Nablus",
+		"display_name": "QURAN Radio Nablus - Live","url": "http://www.quran-radio.org:8080/;stream.mp3"	
+		},{
+		"name": "إذاعة محمد صديق المنشاوي مرتل 1",
+		"display_name": "إذاعة محمد صديق المنشاوي مرتل 1","url": "https://server03.quran-uni.com:7036/;*.mp3"	
+		},{
+		"name": "إذاعة محمد صديق المنشاوي مرتل 2",
+		"display_name": "إذاعة محمد صديق المنشاوي مرتل 2","url": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi"
+		},{
+		"name": "ElMinshawy",
+		"display_name": "إذاعة محمد صديق المنشاوي مرتل 3","url": "https://stream.zeno.fm/9md6m71tp68uv"	
+		},{
+		"name": "إذاعة محمد صديق المنشاوي مجود",
+		"display_name": "إذاعة محمد صديق المنشاوي مجود","url": "https://qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad"	
+		},{
+		"name": "Hosary Quran",
+		"display_name": "إذاعة محمود خليل الحصري مرتل بقصر المنفصل","url": "https://stream.zeno.fm/vsfa9n4g698uv"	
+		},{
+		"name": "MohamedRefaat",
+		"display_name": "الشيخ محمد رفعت","url": "https://stream.zeno.fm/73xsyy44qs8uv"	
+		},{
+		"name": "albanna",
+		"display_name": "الشيخ محمود على البنا مرتل","url": "https://stream.zeno.fm/x2yfuym0pnhvv"	
+		},{
+		"name": "albanna",
+		"display_name": "الشيخ محمود على البنا مجود","url": "https://qurango.net/radio/mahmoud_ali__albanna_mojawwad"	
+		},{
+		"name": "ElshahatAnwar",
+		"display_name": "الشيخ الشحات أنور","url": "https://stream.zeno.fm/nen6ecb78f8uv"
+		},{
+		"name": "إذاعة سعود الشريم",
+		"display_name": "إذاعة سعود الشريم","url": "https://backup.qurango.net/radio/saud_alshuraim"
+		},{
+		"name": "إذاعة محمد أيوب تسجيل الصلاة",
+		"display_name": "إذاعة محمد أيوب تسجيل الصلاة","url": "https://backup.qurango.net/radio/ayyoub2"
+		},{
+		"name": "اذاعة الشيخ مشارى العفاسى 1",
+		"display_name": "اذاعة الشيخ مشارى العفاسى 1","url": "https://server03.quran-uni.com:10998/;*.mp3"
+		},{
+		"name": "اذاعة الشيخ مشارى العفاسى 2",
+		"display_name": "اذاعة الشيخ مشارى العفاسى 2","url": "https://qurango.net/radio/mishary_alafasi"
+	    },{
+		"name": "Raad Al Kurdi",
+		"display_name": "تلاوات الشيخ رعد الكردي","url": "https://stream.zeno.fm/dng9vwlgolzvv"
+	    },{
+		"name": "إذاعة القارئ العيون الكوشي برواية ورش",
+		"display_name": "راديو الشيخ العيون الكوشي رواية ورش","url": "https://server03.quran-uni.com:7103/;*.mp3"
+	    },{
+		"name": "اذاعة خواطر الشيخ الشعراوي 1",
+		"display_name": "اذاعة خواطر الشيخ الشعراوي 1","url": "https://server3.quraan.us:8014/stream"
+		},{
+		"name": "اذاعة خواطر الشيخ الشعراوي 2",
+		"display_name": "اذاعة خواطر الشيخ الشعراوي 2","url": "https://3vh.liveradiu.com:8000/el-shaarawy.mp3"
+		},{
+		"name": "al-Sha’rawi Channel",
+		"display_name": "اذاعة خواطر الشيخ الشعراوي 3","url": "http://104.7.66.64:8088/;.mp3"	
+		},{
+		"name": "Kishk Radio",
+		"display_name": "جميع خطب الشيخ عبدالحميد كشك كاملة","url": "https://stream.zeno.fm/kenbwry5ttvtv"	
+		},{
+		"name": "shaikh kishk",
+		"display_name": "خطب الشيخ كشك","url": "https://stream.zeno.fm/syipzq69js0vv"	
+		},{
+		"name": "alheweny radio",
+		"display_name": "دروس الشيخ ابو اسحاق الحوينى","url": "https://stream.zeno.fm/c2uvmrknmolvv"	
+		},{
+		"name": "Omar Abd al-Kafi Channel",
+		"display_name": "قناة الشيخ عمر عبد الكافي","url": "http://104.7.66.64:8007/;.mp3"	
+		},{
+		"name":  "Ayat-Nartaqi",
+		"display_name":  "آيات القرآن الكريم (Ayat Al Quran Al Kareem)","url": "https://stream.zeno.fm/vf2hfg10d48uv"
+		},{
+		"name": "nakshabandy",
+		"display_name": "ابتهالات الشيخ النقشبندي","url": "https://stream.zeno.fm/w13tazk414zuv"	
+		},{
+		"name": "YassenTohamy",
+		"display_name": "ابتهالات الشيخ ياسين التهامي 1","url": "https://stream.zeno.fm/m1s81b44qs8uv"	
+		},{
+		"name": "YassenTohamy",
+		"display_name": "ابتهالات الشيخ ياسين التهامي 2","url": "https://stream.zeno.fm/s01hxee9fg8uv"
+		},{
+		"name": "enshad",
+		"display_name": "قناة انشاد","url": "https://stream.zeno.fm/fam4w04v24zuv"
+        }
+        ]
+    },
+    "OLD Radio": {
+        "streams": [
+        {
+		"name": "old radio",
+		"display_name": "إذاعات الزمن الجميل تابع القنوات التالية","url": ""	
+		},{
+		"name": "om kalthom echo",
+		"display_name": "اغاني كوكب الشرق صدى صوت","url": "http://stream.zeno.fm/7qqmat61rxhvv"	
+		},{
+		"name": "Om kalthoum radio",
+		"display_name": "راديو أم كلثوم 1","url": "https://stream.zeno.fm/fc8dekkufs3vv"	
+		},{
+		"name": "OM kalthoum",
+		"display_name": "راديو أم كلثوم 2","url": "https://stream.zeno.fm/puv30d6l1bjtv"	
+		},{
+		"name": "UM KALTHUM",
+		"display_name": "راديو أم كلثوم 3","url": "https://stream.zeno.fm/yn114zz2p48uv"
+		},{
+		"name": "kawkabelsharq",
+		"display_name": "راديو كوكب الشرق - صوت الغد","url": "http://sawtelghad.org:8006/;"
+		},{
+		"name": "Abdelhalim Hafez",
+		"display_name": "Abdelhalim Hafez","url": "https://stream.zeno.fm/5g1mr4b3f2zuv"	
+		},{
+		"name": "Fairuz radio",
+		"display_name": "راديو فيروز","url": "http://stream.zeno.fm/c0akqv6cz4zuv"
+		},{
+		"name": "faerowz",
+		"display_name": "راديو السيدة فيروز 1","url": "https://stream.zeno.fm/xkhnk4vee18uv"	
+		},{
+		"name": "Fairuz",
+		"display_name": "راديو السيدة فيروز 2","url": "https://stream.zeno.fm/52kz37b3f2zuv"	
+		},{
+		"name": "Fayrouz Radio",
+		"display_name": "راديو السيدة فيروز 3","url": "https://stream.zeno.fm/hc9k1bc9ps8uv"	
+		},{
+		"name": "warda echo",
+		"display_name": "اغاني ورده الجزائرية صدى صوت","url": "https://stream.zeno.fm/5277mqf2sxhvv"	
+		},{
+		"name": "Tarab",
+		"display_name": "محطة راديو طرب","url": "https://stream.zeno.fm/fy8achbq97zuv"
+		},{
+		"name": "lbi Zaman",
+		"display_name": "lbi Zaman بث حي","url": "https://lbizaman-lbnet2.radioca.st/stream"
+		},{
+		"name": "Rahbaniyat",
+		"display_name": "Rahbaniyat - رحبانيات","url": "https://stream.zeno.fm/ctmapun6ot5vv"
+		},{
+		"name": "Sabah Radio",
+		"display_name": "إذاعة الأسطورة صباح","url": "https://stream.zeno.fm/0mz814shguhvv"
+		},{
+		"name": "Geroges Wassouf",
+		"display_name": "سلطان الطرب جورج وسوف 1","url": "https://stream.zeno.fm/9eb3xms1uk8uv"
+		},{
+		"name": "Geroges Wassouf",
+		"display_name": "سلطان الطرب جورج وسوف 2","url": "https://wassoufworld.radioca.st/stream"
+		},{
+		"name": "Alhaan",
+		"display_name": "Alhaan - راديو ألحان","url": "https://stream.zeno.fm/xqwnzun05hhvv"	
+		},{
+		"name": "Adeem Radio",
+		"display_name": "راديو قديم","url": "https://stream.zeno.fm/c4dwu5mr3f8uv"	
+		},{
+		"name": "Days Old Radio",
+		"display_name": "Days Old راديو","url": "https://stream.zeno.fm/aqx3usbtsg0uv"	
+		},{
+		"name": "AMR DIAB FM",
+		"display_name": "FM عمرو دياب","url": "https://stream.zeno.fm/xa4yhh4k838u"	
+		},{
+		"name": "Radio Diab online",
+		"display_name": "Radio Diab online voice of diabin","url": "https://stream.zeno.fm/9t15vs7bkfhvv"	
+		},{
+		"name": "mhmd-mhy",
+		"display_name": "محمد محي","url": "https://stream.zeno.fm/gql4tcwrrxgtv"	
+		},{
+		"name": "Classic Music",
+		"display_name": "إذاعة صوت الغد - كلاسيك","url": "https://sawtelghad.org:7006/;"	
+		},{
+		"name": "Classical Radio",
+		"display_name": "Classical Radio - Calm","url": "https://drive.uber.radio/uber/crcalm/icecast.audio"	
+		},{
+		"name": "Classical Radio",
+		"display_name": "Classical Radio - Sleep","url": "https://drive.uber.radio/uber/crsleep/icecast.audio"	
+        }
+        ]
+    },
+    "WORLD Radio": {
+        "streams": [
+        {
+		"name": "World Radio",
+		"display_name": "<<<<< إذاعات دولية تابع التالي","url": ""	
+		},{
+		"name": "Ajial",
+		"display_name": "راديو أجيال- القدس","url": "http://streamer.mada.ps:8008/ajyal"
+		},{
+		"name": "Fajir Radio",
+		"display_name": "راديو الفجر","url": "https://stream.zeno.fm/nv3hk9hfgphvv"
+		},{
+		"name": "Radio alnour",
+		"display_name": "اذاعة النور بث حي- لبنان","url": "https://l3.itworkscdn.net/itwaudio/9066/stream"
+		},{
+		"name": "Hospital on air",
+		"display_name": "راديو مستشفي على الهواء معلومات طبية","url": "https://stream.zeno.fm/g1gveswvk2zuv"	
+		},{ 
+		"name": "اذاعة نجوم اف ام",
+		"display_name": "اذاعة نجوم اف ام", "url": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3"
+		},{
+		"name": "Nagham FM 105.3",
+		"display_name": "(نغم إف إم) بث حي","url": "https://ahmsamir.radioca.st/stream"	
+		},{
+		"name": "El-Radio‎ 9090",
+		"display_name": "(الراديو٩٠٩٠) بث حي","url": "https://9090streaming.mobtada.com/9090FMEGYPT"	
+		},{
+		"name": "راديو انغام",
+		"display_name": "راديو انغام","url": "https://streamer.mada.ps:8207/ANGHAM"
+		},{
+		"name": "arabesk radio",
+		"display_name": "راديو أرابيسك","url": "https://stream.zeno.fm/cx01k0nfdq8uv"	
+		},{
+		"name": "90s Fm",
+		"display_name": "(تسعينات اف ام) بث حي","url": "https://eu1.fastcast4u.com/proxy/prontofm?mp=%2F1"	
+		},{
+		"name": "Sawt El-Ghad",
+		"display_name":"اذاعة صوت الغد - لبنان","url": "https://l3.itworkscdn.net/itwaudio/9030/stream"
+	    },{
+		"name": "Radio Delta Lebanon",
+		"display_name": "راديو دلتا - لبنان","url": "https://stream.zeno.fm/96wsddfcbshvv"
+		},{
+		"name": "Jabal Lebnan",
+		"display_name": "راديو جبل لبنان","url": "https://stream.zeno.fm/re9qe80egphvv"
+		},{
+		"name": "RLL",
+		"display_name": "لبنان الحر (RLL)","url": "https://stream.zeno.fm/2fh25z8egphvv"
+		},{
+		"name": "Radio Bander Aden FM",
+		"display_name": " FM راديو بندر عدن","url": "http://r.fm-radio.net/bndr"
+	    },{
+		"name": "gulf mix",
+		"display_name": "ميكسات خليجية","url": "https://stream.zeno.fm/5p3svdmgr9etv"	
+		},{
+		"name": "Radio Dzair Chaabia",
+		"display_name": "Radio Dzair Chaabia","url": "https://radiodzair.net:8010/chaabia?shoutcast"	
+        }
+        ]
+    },
+    "INDIAN Radio": {
+        "streams": [
+        {
+		"name": "Indian",
+		"display_name": " <<<<< إذاعات هندية","url": ""	
+		},{
+		"name": "Ishq FM",
+		"display_name": "Ishq FM","url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio"	
+		},{
+		"name": "Radio Hungama 90s Once Again",
+		"display_name": "Radio Hungama 90s Once Again","url": "https://stream.zeno.fm/rm4i9pdex3cuv"	
+		},{
+		"name": "Radio Hungama Evergreen Bollywood",
+		"display_name": "Radio Hungama Evergreen Bollywood ","url": "https://server.mixify.in:8010/radio.mp3"	
+		},{
+		"name": "Radio Mirchi 98.3 FM",
+		"display_name": "Radio Mirchi 98.3 FM","url": "http://peridot.streamguys.com:7150/Mirchi"	
+		},{
+		"name": "Radio Retro Bollywood",
+		"display_name": "Radio Retro Bollywood","url": "https://stream.zeno.fm/g372rxef798uv"	
+		},{
+		"name": "Hits Of Bollywood",
+		"display_name": "Hits Of Bollywood","url": "https://stream.zeno.fm/a2gyqzwpwfeuv"	
+		},{
+		"name": "New Hits of Bollywood",
+		"display_name": "New Hits of Bollywood","url": "https://stream.zeno.fm/kr08sxc2tfeuv"	
+		},{
+		"name": "Akashvani Nagaon",
+		"display_name": "Akashvani Nagaon","url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio260/playlist.m3u8"	
+		},{
+		"name": "Goldy Cool",
+		"display_name": "Goldy Cool","url": "https://stream.zeno.fm/3k1fb86tfm8uv"	
+		},{
+		"name": "Vividh Bharati",
+		"display_name": "Vividh Bharati","url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8"	
+       
+		},{
+		"name": "Arjit singh",
+		"display_name": "Arjit singh عندليب الهند","url": "https://stream.zeno.fm/rfpf8qec94zuv"	
+		},{
+		"name": "All India Radio Air Gujarati",
+		"display_name": "All India Radio Air Gujarati","url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8"	
+		},{
+		"name": "Air FM Gold",
+		"display_name": "Air FM Gold","url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"	
+		},{
+		"name": "Radio Aashiqanaa",
+		"display_name": "Radio Aashiqanaa","url": "https://sonic.onlineaudience.co.uk/8114/stream"	
+		},{
+		"name": "Bollywood Gaane Purane",
+		"display_name": "Bollywood Gaane Purane","url": "https://stream.zeno.fm/6n6ewddtad0uv"	
+		},{
+		"name": "Radio Namkin",
+		"display_name": "Radio Namkin","url": "https://stream.zeno.fm/yg1qhsbaqv5tv"	
+		},{
+		"name": "BollyHits Radio",
+		"display_name": "BollyHits Radio","url": "https://stream.zeno.fm/6rth3ywheg8uv"	
+		},{
+		"name": "Radio Zhakkas",
+		"display_name": "Radio Zhakkas","url": "https://stream.zeno.fm/y5tu4had8e9uv"	
+		},{
+		"name": "Thendral FM Radio",
+		"display_name": "Thendral FM Radio","url": "https://stream.zeno.fm/xzt706p3h2zuv"	
+		},{
+		"name": "Radio Mango",
+		"display_name": "Radio Mango","url": "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/profile_2/chunklist.m3u8"	
+		},{
+		"name": "Radio Jagriti",
+		"display_name": "Radio Jagriti 90.4 FM","url": "https://stream.zeno.fm/4dycn4hmffhvv"	
+		},{
+		"name": "KGF world radio",
+		"display_name": "KGF world radio","url": "https://stream-158.zeno.fm/wk7hppypta0uv"	
+		},{
+		"name": "Goldy Mukesh Hits",
+		"display_name": "Goldy Mukesh Hits","url": "https://stream.zeno.fm/t39watus1p8uv"	
+		},{
+		"name": "Goldy Evergreen",
+		"display_name": "Goldy Evergreen","url": "https://stream.zeno.fm/n2fd0edh9k8uv"	
+		},{
+		"name": "Non Stop Hindi",
+		"display_name": "Non Stop Hindi","url": "https://www.liveradio.es/http://198.178.123.14:8216/stream"	
+		},{
+		"name": "Shripad Radio",
+		"display_name": "Shripad Radio","url": "https://shripadradio.radioca.st/stream"	
+		},{
+		"name": "Radio Rimjhim",
+		"display_name": "Radio Rimjhim","url": "https://streamasiacdn.atc-labs.com/radiorimjhim.aac"	
+		},{
+		"name": "Radio Rang",
+		"display_name": "Radio Rang","url": "https://stream.zeno.fm/n58tt09cqchvv"	
+		},{
+		"name": "Mazhai FM",
+		"display_name": "Mazhai FM","url": "https://stream.zeno.fm/yu4c9ms3h2zuv"	
+		},{
+		"name": "Radio Madhur Tarang",
+		"display_name": "Radio Madhur Tarang","url": "https://stream.zeno.fm/v0gde6udfg8uv"	
+		},{
+		"name": "JN FM TAMIL CLASSIC",
+		"display_name": "JN FM TAMIL CLASSIC","url": "https://stream.zeno.fm/qkdmq6d7kfhvv"	
+		},{
+		"name": "A9 Radio",
+		"display_name": "A9 Radio","url": "https://a9radio1-a9media.radioca.st/stream"	
+		},{
+		"name": "A9 Radio Old Hits",
+		"display_name": "A9 Radio Old Hits","url": "https://a9oldhits-a9media.radioca.st/stream"	
+		},{
+		"name": "Radio Benziger",
+		"display_name": "Radio Benziger","url": "https://radio.radiobenziger.com/stream?type=http&nocache=1169"	
+		},{
+		"name": "Aural Oldies",
+		"display_name": "Aural Oldies","url": "https://stream.zeno.fm/ecn7y019e2zuv"	
+		},{
+		"name": "Aural Radio",
+		"display_name": "Aural Radio","url": "https://stream.zeno.fm/pnafwp8atwzuv"	
+		},{
+		"name": "Radio Paramakurichi",
+		"display_name": "Radio Paramakurichi","url": "https://vpmurugun.radioca.st/autodj"	
+		},{
+		"name": "Pollachi FM",
+		"display_name": "Pollachi FM","url": "https://www.liveradio.es/http://104.200.16.182:8000/;"	
+		},{
+		"name": "Rangeela Radio",
+		"display_name": "Rangeela Radio","url": "https://stream.zeno.fm/38q20zhhx4zuv"	
+		},{
+		"name": "Goldy Classic",
+		"display_name": "Goldy Classic","url": "https://stream.zeno.fm/hx2wtsw2kwkuv"	
+		},{
+		"name": "Radio Bolly FM",
+		"display_name": "Radio Bolly FM","url": "https://sp14.instainternet.com/8156/stream"	
+		},{
+		"name": "Radio Swami",
+		"display_name": "Radio Swami","url": "https://stream.zenolive.com/n5xdm01w4ueuv"	
+		},{
+		"name": "Vismaya Devotional Malayalam",
+		"display_name": "Vismaya Devotional Malayalam","url": "https://stream.zeno.fm/pyzyd49qwrhvv"	
+		},{
+		"name": "Radio Daijiworld",
+		"display_name": "Radio Daijiworld","url": "https://26383.live.streamtheworld.com/SAM08AAC013_SC"	
+		},{
+		"name": "Radio Madurai",
+		"display_name": "Radio Madurai","url": "https://stream.zeno.fm/1ycmepnthkhvv"	
+		},{
+		"name": "Jhunjhunu Radio",
+		"display_name": "Jhunjhunu Radio","url": "https://stream.zeno.fm/ehq95zyz808uv?"	
+		},{
+		"name": "ISAI PARAVAI FM",
+		"display_name": "ISAI PARAVAI FM","url": "https://stream.zeno.fm/nzi27fhhwv3tv"	
+		},{
+		"name": "Namm Radio",
+		"display_name": "Namm Radio Gulf FM","url": "https://stream.zeno.fm/6quh1pfnt1duv"	
+		},{
+		"name": "Namm Radio",
+		"display_name": "Namm Radio kannada,Classic,Bollywood,Old Songs","url": "https://stream.zeno.fm/kgw2tp5p1y5tv"	
+		},{
+		"name": "Covai FM Radio",
+		"display_name": "Covai FM Radio","url": "https://stream.zeno.fm/kzd2e3tx24zuv"	
+		},{
+		"name": "Vibesounds Telugu Melodies",
+		"display_name": "Vibesounds Telugu Melodies","url": "https://azuracast.vibesounds.in:8020/radio.mp3"	
+		},{
+		"name": "RATNAGIRI FRESH FM",
+		"display_name": "RATNAGIRI FRESH FM 103.9","url": "https://stream.zeno.fm/rxq8uv39c8zuv"	
+		},{
+		"name": "Radio Girmit",
+		"display_name": "Radio Girmit 97.0 FM in Bangalore","url": "https://stream.radiojar.com/g6dgm6m6p3hvv"	
+		},{
+		"name": "RADIO BEAT EXTRA",
+		"display_name": "RADIO BEAT EXTRA ENGLISH HIT MUSIC","url": "https://listen.openstream.co/4172/audio"	
+		},{
+		"name": "RADIO BEAT LOVE",
+		"display_name": "RADIO BEAT LOVE TAMIL LOVE HITS","url": "https://listen.openstream.co/5770/audio"	
+		},{
+		"name": "RADIO BEAT RETRO",
+		"display_name": "RADIO BEAT RETRO TAMIL 50S,60S,70S,80S & 90S HITS","url": "https://listen.openstream.co/4732/audio"	
+		},{
+		"name": "RADIO BEAT HINDHI & PUNJABI",
+		"display_name": "RADIO BEAT HINDHI & PUNJABI","url": "https://listen.openstream.co/7028/audio"	
+		},{
+		"name": "RADIO BEAT MALAYALAM",
+		"display_name": "RADIO BEAT MALAYALAM HITS!","url": "https://listen.openstream.co/6761/audio"	
+		},{
+		"name": "Vizhi FM",
+		"display_name": "Vizhi FM","url": "https://stream.zeno.fm/03za00n10qruv"	
+		},{
+		"name": "AP9FM",
+		"display_name": "AP9FM","url": "https://stream.ap9fm.in/radio/8000/radio.mp3"	
+		},{
+		"name": "ARUMBU FM",
+		"display_name": "ARUMBU FM","url": "https://stream.zeno.fm/3ahvqdnce2zuv"	
+		},{
+		"name": "Melody Radio",
+		"display_name": "Melody Radio","url": "https://a1.asurahosting.com:9580/radio.mp3"	
+        }
+        ]
+    }
+}
