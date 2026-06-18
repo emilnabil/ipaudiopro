@@ -170,7 +170,13 @@ install_plugin() {
             wget -q "--no-check-certificate" -O "/tmp/${IPK}" "$IPK_URL"
             opkg install "/tmp/${IPK}"
             rm -f "/tmp/${IPK}"
-            restart_box
+            
+            # Download additional files
+            echo "Downloading additional files..."
+            wget -O /usr/lib/enigma2/python/Plugins/Extensions/IPaudioPro/logo.png "https://dreambox4u.com/emilnabil237/plugins/ipaudiopro/logo.png"
+            
+            echo -e "${GREEN}Installation completed successfully!${RESET}"
+            echo -e "${YELLOW}Please restart Enigma2 manually to apply changes.${RESET}"
         else
             echo "IPAudioPro is already up to date (version $INSTALLED_VERSION). No action needed."
         fi
@@ -180,7 +186,13 @@ install_plugin() {
         wget -q "--no-check-certificate" -O "/tmp/${IPK}" "$IPK_URL"
         opkg install "/tmp/${IPK}"
         rm -f "/tmp/${IPK}"
-        restart_box
+        
+        # Download additional files
+        echo "Downloading additional files..."
+        wget -O /usr/lib/enigma2/python/Plugins/Extensions/IPaudioPro/logo.png "https://dreambox4u.com/emilnabil237/plugins/ipaudiopro/logo.png"
+        
+        echo -e "${GREEN}Installation completed successfully!${RESET}"
+        echo -e "${YELLOW}Please restart Enigma2 manually to apply changes.${RESET}"
     fi
     exit 0
 }
