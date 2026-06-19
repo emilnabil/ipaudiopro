@@ -1,3 +1,203 @@
-z="
-";rCz='REMO';Vz=' -O ';mBz='ON_V';yFz='13_f';WEz=';;';uHz='p 3';WCz='sion';bEz='" | ';RGz='pe}_';Kz='mil2';mCz='INST';NDz='"opk';ZDz='ove"';NGz='${ve';GHz='.png';tEz='IR" ';hz='Pro ';mDz='H" ]';sBz='rsio';sHz='bil ';uCz='get ';cHz='####';PIz='ull ';kFz='py3_';UCz='t Py';aBz='IPau';EHz='pro/';rEz='"$OP';NFz='n AR';rFz='5]) ';PCz='d or';NCz='inst';IGz='"${g';GCz='SION';HEz='PATH';MCz='not ';eCz='v ap';gDz='orte';qDz='movi';iDz=' -d ';kz='By E';GDz='opkg';Wz='- | ';SHz='4u.c';bGz=' "$p';vFz='12_f';gz='udio';gFz='3.10';kDz='UGIN';HHz='"/et';oz='plug';kCz='&1; ';uDz='in..';wGz='ng" ';pFz='3.12';iEz='n-vf';bDz='sour';TDz='all ';oGz='f "$';DCz='"$PY';cFz='RSIO';OIz='ev/n';CFz='xa7h';pHz='d By';BBz='nabi';Qz='in/u';fFz=''\'';;';XGz='p_di';bFz='Y_VE';RFz='re"';LDz='1; t';SEz='_typ';mEz='hf-n';bHz=' "##';TCz='etec';sFz='12'\'';';yEz='f-ne';WDz='depe';LFz='e="a';bBz='dioP';Az='wget';vDz='$REM';mz='Nabi';az=' " S';uEz='| gr';fCz='t-ge';qHz=' Emi';LHz='oPro';Ez='.git';QHz='drea';EFz='p"; ';lBz='PYTH';Fz='hubu';uBz='&1 |';vCz='remo';QBz='"/us';CIz='TART';lHz='d   ';MFz='know';eHz=' "# ';PHz='s://';PBz='ATH=';pCz='-get';xEz='xa9h';cEz='grep';dDz='else';KIz='v sy';pEz='4"';aGz='it 1';MIz='ctl ';TFz='d ar';Tz='thon';JIz='S" ]';oDz='en';UFz='re: ';wFz='f7'\'';';JHz='2/IP';SBz='b/en';dBz='_dir';IHz='c/en';ECz='THON';uFz='9]) ';BFz='on"';YHz='PAud';wBz=' '\''{p';ZEz='if l';WHz='ins/';FBz='/ref';QDz='l --';NIz='> /d';FHz='logo';UGz='k"';EDz='mand';xHz=' Dev';ADz='Drea';KFz='"; t';WFz='h"';VCz=' ver';aEz='s "$';LIz='stem';MHz='.jso';OFz='M ar';xBz='rint';qFz='.[1-';qCz=' -y"';ABz='emil';yBz=' $2}';TGz='}.ip';LEz=' -m)';Uz='.sh ';UDz='--fo';FGz='ed."';tBz='n 2>';JFz='neon';oHz='oade';bz='crip';eBz='="/t';FFz='p"';nBz='ERSI';aDz='Open';BGz='y2_7';HBz='ads/';JBz='"';lDz='_PAT';tz='git_';ODz='g in';xz='hub.';JGz='it_u';KDz=' 2>&';yDz='ma2-';tFz='.[6-';XHz='ro/I';tGz='.ipk';rBz='--ve';qGz='r}/$';fHz='    ';oEz='vfpv';GBz='s/he';uz='url=';XDz='nds"';Pz='a/ma';tCz='apt-';YIz='-9 e';jDz='"$PL';Hz='onte';AIz='Will';wEz='q "c';nCz='ALL=';FEz='$PLU';pBz='(pyt';UIz='star';MGz='in}_';cBz='temp';iz='Plug';dEz=' -q ';KBz='vers';YBz='ensi';QFz='ectu';hCz='/dev';WIz='2';MDz='hen';AEz='in-e';wDz='OVE ';VEz='2el"';kGz=' "${';GIz='S" =';dCz='nd -';fDz='supp';ZCz=' 1';fGz='-O "';XBz='/Ext';hBz='_DIR';nz='l "';THz='miln';NEz=' "$a';jHz='on $';FIz=' "$O';IIz='eamO';DDz=' com';Yz='/sh';eGz='rl" ';jEz='pv4"';wHz='Your';Xz='/bin';Iz='nt.c';SDz='e-re';PFz='chit';qEz=' ls ';KCz=' "Py';KGz='rl}/';Bz=' htt';gBz='OPKG';KHz='Audi';KEz='name';QCz=' cou';rz='diop';ez='tall';xGz='/dre';eDz=' "Un';dGz='ge_u';JDz='null';IDz='dev/';HGz='age_';gEz='15hf';vGz='go.p';OGz='n}_$';lz='mil ';iCz='/nul';oBz='ON=$';aCz='fi';vBz=' awk';YGz='r" |';eEz='"cor';pz='in="';UBz='2/py';hDz='d OS';IEz='arch';gCz='t > ';VDz='rce-';MBz='"1.4';rGz='{plu';DIz=' Now';bCz='if c';SFz='*)';oFz='11'\'';';PEz=' in';CHz='/plu';OHz='http';DBz='audi';VGz='cd "';CEz='s-ip';fBz='mp"';nGz='ipk"';yz='com/';vHz=' "  ';tHz='slee';RBz='r/li';RCz='ld n';xDz='enig';uGz='H/lo';QGz='h_ty';cCz='omma';Cz='ps:/';jBz='tc/o';NHz='n" "';UHz='abil';qBz='hon ';EGz='port';wz='/git';OCz='alle';OBz='IN_P';REz=')';LCz=' is ';yGz='ambo';YFz=' $PY';jz='in';YEz='7l)';OEz='rch"';LBz='ion=';XEz='armv';RHz='mbox';jCz='l 2>';FDz=' -v ';DHz='/ipa';lCz='then';sGz='gin}';BCz='if [';DGz=' sup';GEz='GIN_';aFz='*) P';mHz=' #"';ZBz='ons/';pDz=' "Re';CDz='elif';EEz='rf "';YCz='exit';RDz='forc';ZFz='3.9.';Dz='/raw';cDz='ce'\''';VHz='237/';pGz='{tem';dz=' ins';MEz='case';PDz='stal';GFz='q "a';aIz=' 0';VBz='/Plu';kEz='e="c';YDz=' rem';kHz='ion ';ZHz='ioPr';fEz='texa';iBz='="/e';lEz='xa15';LGz='s-${';UEz='ips3';gHz='IPAu';VFz='$arc';ICz=' the';XCz='."';Zz='echo';FCz='_VER';oCz='"apt';dFz='N='\''p';lGz='}/${';ZGz='| ex';xFz='3.13';vz='"htt';AFz='on";';sEz='KG_D';Nz='es-e';SIz='emct';nFz='3.11';AHz='x4u.';WBz='gins';eFz='y3_9';CGz=' not';HIz=' "Dr';Jz='om/e';WGz='$tem';ACz=''\'')';QIz='2>&1';RIz='syst';fz=' IPA';DEz='rm -';dHz='#"';Gz='serc';QEz='mips';rHz='l_Na';TEz='e="m';lFz='10'\'';';aHz='o.js';HDz=' > /';mGz='in}.';AGz='2.7.';nDz='; th';mFz=';';sDz='xist';cGz='acka';XFz='esac';hFz='.*) ';SCz='ot d';wCz='ve -';cz='t to';iGz='$INS';JCz='n';Lz='37/u';JEz='=$(u';kBz='pkg/';XIz='kill';sz='ro"';GGz='pack';hEz='-neo';HCz='" ];';hGz='ugin';PGz='{arc';tDz='ing ';BEz='xten';hHz='ro v';sCz='VE="';CBz='l/ip';CCz=' -z ';TIz='l re';nHz=' Upl';NBz='PLUG';Sz='l-py';BHz='l237';yCz='OS='\''';TBz='igma';vEz='ep -';qz='ipau';iHz='ersi';EIz='p 2';IBz='main';HFz='rmv7';ZIz='a2';IFz='ahf-';yHz='ice ';rDz='ng e';DFz='f-vf';Rz='e-al';SGz='${PY';Mz='pdat';xCz='y"';gGz='${pl';jFz='ON='\''';jGz='TALL';iFz='PY_V';BIz=' RES';VIz='t en';nEz='eon-';Oz='nigm';BDz='mOS'\''';EBz='opro';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Mz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$z$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$z$kz$lz$mz$nz$z$oz$pz$qz$rz$sz$z$tz$uz$vz$Cz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$Dz$FBz$GBz$HBz$IBz$JBz$z$KBz$LBz$MBz$JBz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$Tz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$sz$z$cBz$dBz$eBz$fBz$z$gBz$hBz$iBz$jBz$kBz$JBz$z$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$z$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$z$Zz$KCz$Tz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$Tz$VCz$WCz$XCz$z$YCz$ZCz$z$aCz$z$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$z$mCz$nCz$oCz$pCz$dz$ez$qCz$z$rCz$sCz$tCz$uCz$vCz$wCz$xCz$z$yCz$ADz$BDz$z$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$z$mCz$nCz$NDz$ODz$PDz$QDz$RDz$SDz$NCz$TDz$UDz$VDz$WDz$XDz$z$rCz$sCz$GDz$YDz$ZDz$z$yCz$aDz$bDz$cDz$z$dDz$z$Zz$eDz$fDz$gDz$hDz$JBz$z$YCz$ZCz$z$aCz$z$BCz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$z$Zz$pDz$qDz$rDz$sDz$tDz$oz$uDz$XCz$z$vDz$wDz$xDz$yDz$oz$AEz$BEz$WCz$CEz$DBz$EBz$z$DEz$EEz$FEz$GEz$HEz$JBz$z$aCz$z$IEz$JEz$KEz$LEz$z$MEz$NEz$OEz$PEz$z$QEz$REz$z$IEz$SEz$TEz$UEz$VEz$z$WEz$z$XEz$YEz$z$ZEz$aEz$gBz$hBz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$nDz$oDz$z$IEz$SEz$kEz$gDz$lEz$mEz$nEz$oEz$pEz$z$CDz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$gDz$xEz$yEz$AFz$ICz$JCz$z$IEz$SEz$kEz$gDz$xEz$yEz$BFz$z$CDz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$gDz$CFz$DFz$EFz$lCz$z$IEz$SEz$kEz$gDz$CFz$DFz$FFz$z$CDz$qEz$rEz$sEz$tEz$uEz$vEz$GFz$HFz$IFz$JFz$KFz$MDz$z$IEz$SEz$LFz$HFz$IFz$JFz$JBz$z$dDz$z$Zz$eDz$MFz$NFz$OFz$PFz$QFz$RFz$z$YCz$ZCz$z$aCz$z$WEz$z$SFz$z$Zz$eDz$fDz$gDz$TFz$PFz$QFz$UFz$VFz$WFz$z$YCz$ZCz$z$WEz$z$XFz$z$MEz$YFz$ECz$FCz$GCz$PEz$z$ZFz$aFz$bFz$cFz$dFz$eFz$fFz$z$gFz$hFz$iFz$nBz$jFz$kFz$lFz$mFz$z$nFz$hFz$iFz$nBz$jFz$kFz$oFz$mFz$z$pFz$qFz$rFz$iFz$nBz$jFz$kFz$sFz$mFz$z$pFz$tFz$uFz$iFz$nBz$jFz$kFz$vFz$wFz$mFz$z$xFz$hFz$iFz$nBz$jFz$kFz$yFz$wFz$mFz$z$AGz$aFz$bFz$cFz$dFz$BGz$fFz$z$SFz$z$Zz$KCz$Tz$VCz$WCz$CGz$DGz$EGz$FGz$z$YCz$ZCz$z$WEz$z$XFz$z$GGz$HGz$uz$IGz$JGz$KGz$xDz$yDz$oz$AEz$BEz$WCz$LGz$oz$MGz$NGz$sBz$OGz$PGz$QGz$RGz$SGz$FCz$GCz$TGz$UGz$z$VGz$WGz$XGz$YGz$ZGz$aGz$z$Az$bGz$cGz$dGz$eGz$fGz$gGz$hGz$TGz$UGz$z$iGz$jGz$kGz$cBz$dBz$lGz$oz$mGz$nGz$z$DEz$oGz$pGz$XGz$qGz$rGz$sGz$tGz$JBz$z$Az$Vz$jDz$kDz$lDz$uGz$vGz$wGz$vz$Cz$xGz$yGz$AHz$yz$ABz$BBz$BHz$CHz$WBz$DHz$gz$EHz$FHz$GHz$JBz$z$Az$Vz$HHz$IHz$TBz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$SHz$Jz$THz$UHz$VHz$oz$WHz$qz$rz$XHz$YHz$ZHz$aHz$BFz$z$Zz$bHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$dHz$z$Zz$eHz$fHz$fHz$fHz$gHz$bBz$hHz$iHz$jHz$KBz$kHz$NCz$OCz$lHz$fHz$fHz$mHz$z$Zz$eHz$fHz$fHz$fHz$nHz$oHz$pHz$qHz$rHz$sHz$fHz$fHz$fHz$fHz$fHz$fHz$mHz$z$Zz$bHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$cHz$dHz$z$tHz$uHz$z$Zz$vHz$fHz$fHz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$JBz$z$tHz$EIz$z$BCz$FIz$GIz$HIz$IIz$JIz$nDz$oDz$z$bCz$cCz$dCz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$nDz$oDz$z$RIz$SIz$TIz$UIz$VIz$TBz$WIz$z$dDz$z$XIz$TDz$YIz$Oz$ZIz$z$aCz$z$dDz$z$XIz$TDz$YIz$Oz$ZIz$z$aCz$z$YCz$aIz"
+#!/bin/bash
+
+# ---------------------------
+# IPAudioPro Setup Script
+# ---------------------------
+# Project: IPAudioPro
+# Author: zKhadiri
+# ---------------------------
+
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+CYAN='\033[0;36m'
+RED='\033[0;31m'
+RESET='\033[0m'
+
+IPK=""
+ARCH=""
+PY_VER=""
+VERSION=1.7
+FFMPEG_VERSION=""
+BASE_URL="https://raw.githubusercontent.com/emilnabil/ipaudiopro/refs/heads/main"
+
+
+SUPPORTED_FFMPEG_VERSIONS=(
+    4
+    6
+    7
+    8
+)
+
+
+welcome_message() {
+    echo -e "${CYAN}##########################################${RESET}"
+    echo -e "${YELLOW}###    Welcome to IPAudioPro Setup!    ###${RESET}"
+    echo -e "${CYAN}##########################################${RESET}"
+}
+
+
+detect_python_version() {
+    if command -v python3 &>/dev/null; then
+        PYTHON_VERSION=$(python3 --version 2>&1 | awk '{print $2}')
+        PYTHON_VERSION=$(echo "$PYTHON_VERSION" | cut -d'.' -f1-2)
+        echo $PYTHON_VERSION
+    elif command -v python &>/dev/null; then
+        PYTHON_VERSION=$(python --version 2>&1 | awk '{print $2}')
+        PYTHON_VERSION=$(echo "$PYTHON_VERSION" | cut -d'.' -f1-2)
+        echo $PYTHON_VERSION
+    else
+        echo "Python is not installed. Please install Python."
+        exit 1
+    fi
+}
+
+
+detect_ffmpeg_version() {
+    if opkg status ffmpeg &>/dev/null; then
+        FFMPEG_VERSION=$(opkg status ffmpeg | grep -i '^Version:' | awk '{print $2}' | cut -d'-' -f1)
+        MAJOR_VERSION=$(echo "$FFMPEG_VERSION" | cut -d'.' -f1)
+        if (( MAJOR_VERSION > 4 )); then
+            FFMPEG_VERSION=$(echo "$FFMPEG_VERSION" | cut -d'.' -f1,2)
+        fi
+
+        if [[ "$MAJOR_VERSION" -eq 7 ]]; then
+            FFMPEG_VERSION=7.1
+        fi
+
+        if [[ "$MAJOR_VERSION" -eq 8 ]]; then
+            FFMPEG_VERSION=8.0
+        fi
+
+        if [[ " ${SUPPORTED_FFMPEG_VERSIONS[@]} " =~ " $MAJOR_VERSION " ]]; then
+            echo -e "${GREEN}FFmpeg major version $MAJOR_VERSION is supported.${RESET}"
+        else
+            echo -e "${YELLOW}FFmpeg major version $MAJOR_VERSION is not supported.${RESET}"
+            echo -e "${CYAN}Supported versions are: ${SUPPORTED_FFMPEG_VERSIONS[*]}${RESET}"
+            exit 1
+        fi
+    else
+        echo -e "${YELLOW}FFmpeg is not installed. Installing FFmpeg...${RESET}"
+        opkg update && opkg install ffmpeg
+        if opkg status ffmpeg &>/dev/null; then
+            detect_ffmpeg_version
+        else
+            echo -e "${RED}Failed to install FFmpeg. Please check opkg feed.${RESET}"
+            exit 1
+        fi
+    fi
+}
+
+
+
+detect_cpu_arch() {
+    echo "Checking Python version..."
+    PY_VER=$(detect_python_version)
+    echo "Python version: $PY_VER"
+
+    echo "Checking FFmpeg version..."
+    detect_ffmpeg_version
+
+    echo "Detecting CPU architecture..."
+    CPU_ARCH=$(uname -m)
+    echo -e "CPU architecture: ${GREEN}${CPU_ARCH}${RESET}"
+
+    if [[ "$CPU_ARCH" == *"arm"* ]]; then
+        ARCH=$(detect_arm_arch)
+        if [[ "$ARCH" != "unknown" ]]; then
+            CPU_ARCH="arm"
+            IPK="enigma2-plugin-extensions-ipaudiopro_${VERSION}_${ARCH}_py${PY_VER}_ff${FFMPEG_VERSION}.ipk"
+            echo -e "Detected architecture: ${GREEN}${ARCH}${RESET}"
+        else
+            echo -e "${RED}Unsupported architecture: ${ARCH}${RESET}"
+            exit 1
+        fi
+    elif [[ "$CPU_ARCH" == *"mips"* ]]; then
+        ARCH="mips32el"
+        IPK="enigma2-plugin-extensions-ipaudiopro_${VERSION}_${ARCH}_py${PY_VER}_ff${FFMPEG_VERSION}.ipk"
+        echo "Detected architecture: mipsel"
+    elif [[ "$CPU_ARCH" == *"aarch64"* ]]; then
+        ARCH="aarch64"
+        IPK="enigma2-plugin-extensions-ipaudiopro_${VERSION}_${ARCH}_py${PY_VER}_ff${FFMPEG_VERSION}.ipk"
+        echo "Detected architecture: aarch64"
+    else
+        echo -e "${RED}Unsupported architecture: ${CPU_ARCH}${RESET}"
+        exit 1
+    fi
+}
+
+
+detect_arm_arch() {
+    OPKG_DIR="/etc/opkg/"
+    if [[ -d "$OPKG_DIR" ]]; then
+        if ls "$OPKG_DIR" | grep -q "cortexa15hf-neon-vfpv4"; then
+            echo "cortexa15hf-neon-vfpv4"
+        elif ls "$OPKG_DIR" | grep -q "cortexa9hf-neon"; then
+            echo "cortexa9hf-neon"
+        elif ls "$OPKG_DIR" | grep -q "cortexa7hf-vfp"; then
+            echo "cortexa7hf-vfp"
+        elif ls "$OPKG_DIR" | grep -q "armv7ahf-neon"; then
+            echo "armv7ahf-neon"
+        else
+            echo "unknown"
+        fi
+    else
+        echo "unknown"
+    fi
+}
+
+
+restart_box(){
+    killall -9 enigma2
+    exit 0
+}
+
+
+install_plugin() {
+    welcome_message
+    detect_cpu_arch
+
+    echo "Checking if IPAudioPro is installed..."
+
+    INSTALLED_VERSION=$(opkg status enigma2-plugin-extensions-ipaudiopro | grep -i 'Version:' | awk '{print $2}' | sed 's/+.*//')
+    echo "Current version: $VERSION"
+
+    if [[ -n "$INSTALLED_VERSION" ]]; then
+        echo "Current installed version: $INSTALLED_VERSION"
+
+        HIGHEST="$(echo -e "$INSTALLED_VERSION\n$VERSION" | sort -V | tail -n1)"
+
+        if [[ "$HIGHEST" == "$INSTALLED_VERSION" ]]; then
+            echo "IPAudioPro is already up to date (version $INSTALLED_VERSION). No action needed."
+        elif [[ "$HIGHEST" == "$VERSION" ]]; then
+            echo "Newer version found. Installing version $VERSION..."
+            opkg remove enigma2-plugin-extensions-ipaudiopro
+            IPK_URL="${BASE_URL}/v${VERSION}/python${PY_VER}/${CPU_ARCH}/${IPK}"
+            wget -q "--no-check-certificate" -O "/tmp/${IPK}" "$IPK_URL"
+            opkg install "/tmp/${IPK}"
+            rm -f "/tmp/${IPK}"
+            
+            # Download additional files
+            echo "Downloading additional files..."
+            wget -O /usr/lib/enigma2/python/Plugins/Extensions/IPaudioPro/logo.png "https://dreambox4u.com/emilnabil237/plugins/ipaudiopro/logo.png"
+            
+            echo -e "${GREEN}Installation completed successfully!${RESET}"
+            echo -e "${YELLOW}Please restart Enigma2 manually to apply changes.${RESET}"
+        fi
+    else
+        echo "IPAudioPro is not installed. Installing..."
+        IPK_URL="${BASE_URL}/v${VERSION}/python${PY_VER}/${CPU_ARCH}/${IPK}"
+        wget -q "--no-check-certificate" -O "/tmp/${IPK}" "$IPK_URL"
+        opkg install "/tmp/${IPK}"
+        rm -f "/tmp/${IPK}"
+        
+        # Download additional files
+        echo "Downloading additional files..."
+        wget -O /usr/lib/enigma2/python/Plugins/Extensions/IPaudioPro/logo.png "https://dreambox4u.com/emilnabil237/plugins/ipaudiopro/logo.png"
+        
+        echo -e "${GREEN}Installation completed successfully!${RESET}"
+        echo -e "${YELLOW}Please restart Enigma2 manually to apply changes.${RESET}"
+    fi
+    exit 0
+}
+
+install_plugin
