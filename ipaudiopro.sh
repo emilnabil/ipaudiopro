@@ -158,45 +158,28 @@ install_plugin() {
 
     echo "Checking if IPAudioPro is installed..."
 
-    INSTALLED_VERSION=$(opkg status enigma2-plugin-extensions-ipaudiopro | grep -i 'Version:' | awk '{print $2}' | sed 's/+.*//')
-    echo "Current version: $VERSION"
-
-    if [[ -n "$INSTALLED_VERSION" ]]; then
-        echo "Current installed version: $INSTALLED_VERSION"
-
-        HIGHEST="$(echo -e "$INSTALLED_VERSION\n$VERSION" | sort -V | tail -n1)"
-
-        if [[ "$HIGHEST" == "$INSTALLED_VERSION" ]]; then
-            echo "IPAudioPro is already up to date (version $INSTALLED_VERSION). No action needed."
-        elif [[ "$HIGHEST" == "$VERSION" ]]; then
-            echo "Newer version found. Installing version $VERSION..."
-            opkg remove enigma2-plugin-extensions-ipaudiopro
-            IPK_URL="${BASE_URL}/v${VERSION}/python${PY_VER}/${CPU_ARCH}/${IPK}"
-            wget -q "--no-check-certificate" -O "/tmp/${IPK}" "$IPK_URL"
-            opkg install "/tmp/${IPK}"
-            rm -f "/tmp/${IPK}"
-            
-            # Download additional files
-            echo "Downloading additional files..."
-            wget -O /usr/lib/enigma2/python/Plugins/Extensions/IPaudioPro/logo.png "https://dreambox4u.com/emilnabil237/plugins/ipaudiopro/logo.png"
-            
-            echo -e "${GREEN}Installation completed successfully!${RESET}"
-            echo -e "${YELLOW}Please restart Enigma2 manually to apply changes.${RESET}"
-        fi
+    # حذف النسخة القديمة دائماً (بغض النظر عن الإصدار)
+    if opkg status enigma2-plugin-extensions-ipaudiopro &>/dev/null; then
+        echo "Removing old version..."
+        opkg remove enigma2-plugin-extensions-ipaudiopro
+        echo -e "${GREEN}Old version removed successfully!${RESET}"
     else
-        echo "IPAudioPro is not installed. Installing..."
-        IPK_URL="${BASE_URL}/v${VERSION}/python${PY_VER}/${CPU_ARCH}/${IPK}"
-        wget -q "--no-check-certificate" -O "/tmp/${IPK}" "$IPK_URL"
-        opkg install "/tmp/${IPK}"
-        rm -f "/tmp/${IPK}"
-        
-        # Download additional files
-        echo "Downloading additional files..."
-        wget -O /usr/lib/enigma2/python/Plugins/Extensions/IPaudioPro/logo.png "https://dreambox4u.com/emilnabil237/plugins/ipaudiopro/logo.png"
-        
-        echo -e "${GREEN}Installation completed successfully!${RESET}"
-        echo -e "${YELLOW}Please restart Enigma2 manually to apply changes.${RESET}"
+        echo "IPAudioPro is not installed. Proceeding with fresh installation..."
     fi
+
+    # تثبيت النسخة الجديدة
+    echo "Installing IPAudioPro version $VERSION..."
+    IPK_URL="${BASE_URL}/v${VERSION}/python${PY_VER}/${CPU_ARCH}/${IPK}"
+    wget -q "--no-check-certificate" -O "/tmp/${IPK}" "$IPK_URL"
+    opkg install "/tmp/${IPK}"
+    rm -f "/tmp/${IPK}"
+    
+    # تحميل الملفات الإضافية
+    echo "Downloading additional files..."
+    wget -O /usr/lib/enigma2/python/Plugins/Extensions/IPaudioPro/logo.png "https://dreambox4u.com/emilnabil237/plugins/ipaudiopro/logo.png"
+    
+    echo -e "${GREEN}Installation completed successfully!${RESET}"
+    echo -e "${YELLOW}Please restart Enigma2 manually to apply changes.${RESET}"
     exit 0
 }
 
