@@ -16,7 +16,7 @@ RESET='\033[0m'
 IPK=""
 ARCH=""
 PY_VER=""
-VERSION=1.7
+VERSION=1.5
 FFMPEG_VERSION=""
 BASE_URL="https://raw.githubusercontent.com/emilnabil/ipaudiopro/refs/heads/main"
 
